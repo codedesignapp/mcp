@@ -1,0 +1,10 @@
+{
+  "name": "codedesign",
+  "version": "1.0.0",
+  "description": "Build, edit and publish websites with AI from Gemini CLI.",
+  "mcpServers": {
+    "codedesign": {
+      "httpUrl": "https://mcp.codedesign.ai/mcp"
+    }
+  }
+}
