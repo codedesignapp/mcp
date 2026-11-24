@@ -9,6 +9,10 @@
   <a href="https://codedesign.ai">codedesign.ai</a>
 </p>
 
+<p align="center">
+  <a href="https://glama.ai/mcp/connectors/ai.codedesign/codedesign"><img src="https://glama.ai/mcp/connectors/ai.codedesign/codedesign/badges/score.svg" alt="CodeDesign MCP connector on Glama"></a>
+</p>
+
 ---
 
 CodeDesign is an AI website builder. This repository holds the public connection details for the **CodeDesign MCP server**, a hosted server that lets AI apps work with your CodeDesign account. There is nothing to install or run: you add one link to your AI app and sign in with CodeDesign.
