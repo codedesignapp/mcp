@@ -107,7 +107,7 @@ Any app that supports remote MCP servers over Streamable HTTP with OAuth can use
 | --- | --- |
 | `server.json` | Listing for the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=ai.codedesign) |
 | `gemini-extension.json` | Gemini CLI extension manifest |
-| `logo.png` | 400 × 400 logo for directories |
+| `icon.svg`, `icon-512.png`, `logo.png` | CodeDesign app icon (SVG, 512 px and 400 px) for directories |
 
 The server itself is hosted and maintained by CodeDesign; its source code is not in this repository.
 

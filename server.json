@@ -3,12 +3,29 @@
   "name": "ai.codedesign/codedesign",
   "title": "CodeDesign",
   "description": "Build, edit and publish websites with AI from ChatGPT, Claude, Cursor and other AI apps.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://codedesign.ai",
   "icons": [
     {
-      "src": "https://codedesign.ai/logo.png",
-      "mimeType": "image/png"
+      "src": "https://raw.githubusercontent.com/codedesignapp/mcp/main/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    },
+    {
+      "src": "https://raw.githubusercontent.com/codedesignapp/mcp/main/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://raw.githubusercontent.com/codedesignapp/mcp/main/logo.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "400x400"
+      ]
     }
   ],
   "remotes": [
